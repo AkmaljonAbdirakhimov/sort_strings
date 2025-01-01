@@ -1,6 +1,6 @@
 name: sort_strings
 description: This package is used to sort strings in ascending or descending order.
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/AkmaljonAbdirakhimov/sort_strings
 homepage: https://github.com/AkmaljonAbdirakhimov/sort_strings
